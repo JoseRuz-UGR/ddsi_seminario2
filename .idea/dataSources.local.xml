@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-243.21565.199">
+    <data-source name="DDSI" uuid="cb1793ab-1643-4115-a26f-98b85391058c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="ORACLE" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>x5458669</user-name>
+      <schema-mapping />
+      <load-sources>user_and_system_sources</load-sources>
+    </data-source>
+  </component>
+</project>

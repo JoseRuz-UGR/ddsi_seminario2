@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DDSI" uuid="cb1793ab-1643-4115-a26f-98b85391058c">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:oci:@oracle0.ugr.es:1521:practbd</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <vm-env>
+        <property name="ORACLE_HOME" value="path" />
+      </vm-env>
+    </data-source>
+  </component>
+</project>
